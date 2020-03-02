@@ -1,7 +1,7 @@
-# What did you learn in this course?
+# What did I learn?
 
 * How to use CSS Grid and Flexbox.
-* Also how to create a featured section
+* Also how to create a featured section.
 
 ## I created mixer.com sites clone and here is my page pictures:
 
